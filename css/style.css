@@ -2,7 +2,7 @@ table {
     border-collapse: collapse;
     width: 100%;
     text-align: center;
-    margin: 0 auto; /* Center the table horizontally */
+    margin: 0 auto;
     background-color: #fff;
 }
 
